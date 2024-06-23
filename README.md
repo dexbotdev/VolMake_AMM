@@ -30,3 +30,13 @@ To get started with VOLMAKE_AMM Volume Booster, follow the instructions below.
 - Node.js
 - NPM or Yarn
 - A Solana wallet with SOL for transactions
+
+## Do Not buy from Imposters and resellers , block them Immediately
+
+@Dexbot
+@Solblocksdev
+
+## Support
+
+For support, TG @DexBotsDev
+
